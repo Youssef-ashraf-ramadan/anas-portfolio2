@@ -46,8 +46,8 @@ export function MobileHeader() {
         onClick={() => setIsOpen(false)}
       >
         <Image
-          src="/favicon.png"
-          alt="Hamdi Shehab"
+          src="/images/anas.png"
+          alt="Anas Ashraf"
           fill
           className="object-cover"
         />
